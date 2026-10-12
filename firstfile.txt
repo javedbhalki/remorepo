@@ -1,1 +1,5 @@
-
+bread,
+fruite
+apple,
+jam, 
+soft drink
