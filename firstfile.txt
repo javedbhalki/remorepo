@@ -1,6 +1,2 @@
-bread,
-fruite
-apple,
-jam, 
-soft drink,
+
 added chitguppa to current list
