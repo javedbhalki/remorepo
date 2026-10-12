@@ -2,4 +2,5 @@ bread,
 fruite
 apple,
 jam, 
-soft drink
+soft drink,
+added chitguppa to current list
